@@ -49,3 +49,12 @@ h2 {
     height: 300px;
 }
 
+.progress {
+    position: absolute;
+    margin-left: 25%;
+    transform: translate(-50%, -50%);
+    background-color: #dddddd;
+    height: 30px;
+    width: 200px;
+    border-radius: 20px;
+}
