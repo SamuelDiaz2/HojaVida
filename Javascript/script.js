@@ -6,7 +6,7 @@ window.addEventListener("DOMContentLoaded", move =() => {
         var width = 50;
         var main = setInterval(frame, 50);
         function frame(){
-            if (width >= 95) {
+            if (width >= 97) {
                 clearInterval(main);
             } else {
                 width++;
